@@ -1,0 +1,27 @@
+th{
+    width:25%;
+}
+form{
+    margin:25px;
+}
+header{
+    width:100%;
+    height:200px;
+    background-color:lightgrey;
+    color:red;
+}
+p{ 
+    margin-top: 25px;
+    color:red;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+footer{
+    height:200px;
+    width:100%;
+    background-color:lightgray;
+    text-align: left;
+    margin-top: 250px;
+}
+.fs-3{
+    color:yellowgreen;
+}
